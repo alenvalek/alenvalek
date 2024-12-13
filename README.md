@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alen</h1>
-<h3 align="center">A passionate software developer from Croatia</h3>
+<h3 align="center">A software developer from Croatia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alenvalek&label=Profile%20views&color=0e75b6&style=flat" alt="alenvalek" /> </p>
-
-- 🔭 I’m currently working on [Cruppo](https://github.com/alenvalek/cruppo-frontend)
-
-- 🌱 I’m currently learning **android development**
 
 - 📫 How to reach me **valekalen@gmail.com**
 
